@@ -1,0 +1,138 @@
+body{
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 25px solid black;
+}
+h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: white;
+
+}
+nav{
+    float: right;
+    color: #777777;
+    word-spacing: 1em;
+    margin: 20px auto;
+}
+a:link{
+    text-decoration: none;
+    color: #777777;
+}
+
+header{
+    background-color: #4aaaa5;
+    border-color: #cccccc;
+    width: 175px;
+    height: 70px;
+    text-align:center;
+    float: left;
+    margin: 0 auto;
+    margin-left: 195px;
+}
+div{
+    clear: both;
+    background-color: rgba(211, 211, 211, 0.39);
+    height: 800px;
+    width: auto;
+    padding-top: 30px;
+
+}
+/* .box-content{ */
+    background-color: white;
+    width: 750px;
+    height:700px;
+    position: relative;
+
+}
+#contactText{
+    color: #4aaaa5;
+}
+#image-box{
+    background-color:white;
+    position: relative;
+    height: 600px;
+    width: 750px;
+}
+img{
+   width:150px;
+   height:150px;
+}
+.box{
+    position: relative;
+}
+#music-text{
+    background-color: #4aaaa5;
+    color:white;
+    width: 150px;
+    height: 25px;
+    text-align: center;
+    position: absolute;
+    right:610px;
+    top: 230px;
+}
+#book-text{
+    background-color: #4aaaa5;
+    color:white;
+    width: 150px;
+    height: 25px;
+    text-align: center;
+    position: absolute;
+    right:430px;
+    top: 230px;
+}
+.game{
+    position: relative;
+    top: 178px;
+    right: 180px;
+}
+#game-text{
+    background-color: #4aaaa5;
+    color:white;
+    width: 150px;
+    height: 25px;
+    text-align: center;
+    position: absolute;
+    right:430px;
+    top: 410px;
+}
+.movie{
+    position: relative;
+    top: 350px;
+    right: 540px;
+}
+#movie-text{
+    background-color: #4aaaa5;
+    color:white;
+    width: 150px;
+    height: 25px;
+    text-align: center;
+    position: absolute;
+    right:610px;
+    top: 580px;
+}
+.sport{
+    position: relative;
+    top: 15px;
+}
+#sport-text{
+    background-color: #4aaaa5;
+    color:white;
+    width: 150px;
+    height: 25px;
+    text-align: center;
+    position: absolute;
+    right:610px;
+    top: 410px;
+}
+footer{
+    font-size: 10px;
+    text-align: center;
+    background-color: #666666;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top:8px solid #4aaaa5;
+    position: fixed;
+    width: 100%;
+    bottom:0;
+}
